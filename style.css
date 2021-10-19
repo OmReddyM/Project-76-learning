@@ -1,0 +1,27 @@
+p{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    font-size: large;
+}
+h4{
+    margin-left: 25%;
+    margin-right: 25%;    
+    width: 50%;
+}
+ul{
+    list-style: none;
+    margin-left: 23.5%;
+    margin-right: 25%;
+    width: 50%;
+}
+#BigBang{
+    min-width: 600px;
+    height: 396px;
+    margin-right: 1000px;
+}
+#bigBang{
+    margin-left: 23.5%;
+    margin-right: 25%;
+    width: 50%;    
+}
